@@ -26,6 +26,7 @@
     "electron-updater": "^5.3.0",
     "framer-motion": "^10.12.16",
     "motion": "^10.16.2",
+    "react-redux": "^8.0.5",
     "wouter": "^2.11.0"
   },
   "devDependencies": {
